@@ -18,6 +18,9 @@ The model is based on **U-Net** and supports:
 * Automatic or precomputed **class weighting** to address dataset imbalance.
 * Computation of **mIoU** (mean Intersection-over-Union) for validation.
 
+## Sample point labels
+![Demo](assets/sample.png)
+
 ---
 
 ## ⚙️ Setup Instructions
